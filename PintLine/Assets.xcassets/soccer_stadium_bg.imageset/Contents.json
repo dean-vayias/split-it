@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "soccer_stadium_bg.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "baseball_park_bg.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
